@@ -1,0 +1,9 @@
+.a
+.o
+.DS_Store
+a.out
+minishell
+.vscode
+obj/
+includes/libft/libft.a
+tester1/
